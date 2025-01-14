@@ -1,8 +1,6 @@
 # AdversarialQA
 
-This is Adversarial QA, version 1.0. Date: September 23, 2020
-
-If you have any questions, comments or suggestions, contact <m.bartolo@cs.ucl.ac.uk>
+This is a subset of Adversarial QA, version 1.0. Date: September 23, 2020
 
 If you use this dataset in your own work, please cite the paper.
 
